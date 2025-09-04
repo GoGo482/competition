@@ -1,0 +1,255 @@
+.main b {
+    font-size: 200%;
+    /* background-color: red; */
+}
+
+.main {
+    /* background-image: linear-gradient(to right, rgb(102, 7, 121), rgb(32, 31, 31)); */
+    /* height: 25%; */
+    color: white;
+    text-align: center;
+    direction: rtl;
+    font-size: 200%;
+    /* background-color: red; */
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(102, 7, 121), rgb(32, 31, 31));
+
+}
+
+.space {
+    background-color: rgb(46, 41, 41);
+    height: 50px;
+    /* border-color: rgb(102, 7, 121); */
+    /* border-radius: 100deg; */
+    /* font-size: 100%; */
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+}
+
+.space b{
+    /* border: solid; */
+    background-color: rgb(102, 7, 121);
+    border-radius: 10px;
+    font-size: 200%;
+    
+}
+
+.coral {
+    margin-left: 5%;
+    color: white;
+    font-size: large;
+    margin-top: 20%;
+    direction: rtl;
+    display: inline-block;
+    /* background-color: red; */
+}
+
+.barmaga {
+    margin-left: 30%;
+    color: white;
+    font-size: large;
+    margin-top: 20%;
+    direction: rtl;
+    display: inline-block;
+    /* background-color: red; */
+}
+
+.Glory {
+    margin-left: 5%;
+    color: white;
+    font-size: large;
+    /* margin-top: 20%; */
+    direction: rtl;
+    display: inline-block;
+    /* background-color: red; */
+}
+
+.madaresa7d {
+    margin-left: 30%;
+    color: white;
+    font-size: large;
+    margin-top: 20%;
+    direction: rtl;
+    display: inline-block;
+    /* background-color: red; */
+}
+
+.al7an {
+    margin-left: 5%;
+    color: white;
+    font-size: large;
+    margin-top: 20%;
+    direction: rtl;
+    display: inline-block;
+    /* background-color: red; */
+}
+
+.shmamsa {
+    margin-left: 30%;
+    color: white;
+    font-size: large;
+    margin-top: 20%;
+    direction: rtl;
+    display: inline-block;
+    /* background-color: red; */
+}
+
+.fav1 {
+    font-size: large;
+    border: solid;
+    color: white;
+    display: inline-block;
+    margin-top: 5%;
+    margin-right: 45%;
+    /* background-color: red; */
+}
+
+.fav1:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+.fav2 {
+    font-size: large;
+    border: solid;
+    color: white;
+    display: inline-block;
+    margin-top: 5%;
+    margin-right: 45%;
+    /* background-color: red; */
+}
+
+.fav2:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+.fav1 {
+    font-size: large;
+    border: solid;
+    color: white;
+    display: inline-block;
+    margin-top: 5%;
+    margin-right: 45%;
+    /* background-color: red; */
+}
+
+.fav1:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+.fav3 {
+    font-size: large;
+    border: solid;
+    color: white;
+    display: inline-block;
+    margin-top: 5%;
+    margin-right: 45%;
+    /* background-color: red; */
+}
+
+.fav3:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+.fav4 {
+    font-size: large;
+    border: solid;
+    color: white;
+    display: inline-block;
+    margin-top: 5%;
+    margin-right: 45%;
+    /* background-color: red; */
+}
+
+.fav4:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+.fav5 {
+    font-size: large;
+    border: solid;
+    color: white;
+    display: inline-block;
+    margin-top: 5%;
+    margin-right: 45%;
+    /* background-color: red; */
+}
+
+.fav5:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+.fav6 {
+    font-size: large;
+    border: solid;
+    color: white;
+    display: inline-block;
+    margin-top: 5%;
+    margin-right: 45%;
+    /* background-color: red; */
+}
+
+.fav6:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
